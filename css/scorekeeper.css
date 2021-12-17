@@ -1,0 +1,106 @@
+body {
+	background-color: #ECF0F1 ;
+	font-family: "Catamaran", sans-serif;
+	text-align: center;
+}
+h1 {
+	text-align: center;
+	font-size: 4em;
+	font-family: arial;
+	color: #C6810B ;
+
+	text-shadow: 2px 2px #adad85;
+	margin: auto;
+	margin-top: 50px;
+}
+h5{
+	text-align: center;
+	font-family: arial;
+	margin: auto;
+}
+.screen {
+	width: 35%;
+	height: 350px;
+	background-image: linear-gradient(180deg, yellow,red);
+    margin: 0 auto;
+    padding: 10px;
+    margin-top: 30px;
+    box-shadow: 0px 0px 35px black;
+}
+.col2 {
+	text-align: center;
+	width: 22%;
+	font-size: 7em;
+	padding: auto;
+	height: 130%;
+	font-weight: bolder;
+	background-color: white;
+	border-radius: 50px;
+	display: inline-block;
+	margin-left: 10%;
+	margin-top: 3%;
+	font-family: arial;
+	
+}
+.col4 {
+	text-align: center;
+	width: 22%;
+	height: 130%;
+	font-size: 7em;
+	font-weight: bolder;
+	background-color: white;
+	border-radius: 50px;
+	display: inline-block;
+	margin-right: 10%;
+	margin-top: 3%;
+	font-family: arial;
+}
+.col3 {
+	text-align: center;
+	width: 25%;
+	height: 120px;
+	font-size: 5em;
+	color: white;
+	font-size: 2em;
+	margin-left: 3%;
+	margin-right: 3%;
+	font-weight: bold;
+	color: white;
+	display: inline-block;	
+	margin-top: 3%;
+	font-family: arial;
+}
+.winner {
+	color: green;
+}
+#p1{
+	width: 30%;
+	height: 45px;
+	margin-left: 10%;
+	font-size: 1em;
+	background-color: rgb(46,117,181);
+	color: white;
+}
+#p2 {
+	width: 30%;
+	height: 45px;
+	margin-left: 3%;
+	margin-right: 10%;
+	font-size: 1em;
+	background-color: rgb(46,117,181);
+	color: white;
+
+}
+#reset {
+	width: 15%;
+	height: 50px;
+	background-color: rgb(46,117,181);
+    margin-left: 0%;
+    margin-top: 30px;
+    color: white;
+    font-size: 1.5em;
+    font-family: arial;
+    box-shadow: 5px 5px 5px #adad85;
+    align-items: center;
+    }
+
